@@ -1,4 +1,4 @@
-Nerd doing Nerd things
+4Shrug
 
 <!---
 EhrleMirror/EhrleMirror is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
